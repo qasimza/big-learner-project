@@ -1,7 +1,8 @@
 # Big Learner Project
 
 ## Overview
-Mono-repo Containing Backend and Frontend Code for Learner Project. Involves 
+Mono-repo Containing Backend and Frontend Code for Learner Project. 
+2-week long project involving developing a mock dashboard for tracking BIG's boat reservations.
 
 
 ## Repo Structure 
